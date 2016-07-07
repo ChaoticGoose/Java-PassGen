@@ -1,0 +1,11 @@
+This application is designed to generate a card which can be used to create and remember passwords for multiple services
+
+The output of this application is:
+	One row containing two integers
+		Length of each line of ascii
+		Number of lines output
+	Followed by multiple lines which are the program output
+	Finally there is a single line which has the seed used to generate this set of characters
+This is designed to be used with an application which can take ascii and generate an image
+
+Default output is 12 characters and 11 lines
